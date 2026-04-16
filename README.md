@@ -40,3 +40,6 @@ Hackathon MVP with working detection, risk evaluation, warning logic, and real-t
 
 ## Team
 Developed by a team of four for a hackathon focused on real-world road safety challenges.
+
+Contributed to the development of an AI-based cattle collision prevention system by working on computer vision-based detection, risk analysis, and real-time warning generation. Collaborated in building the dashboard and backend integration as part of a hackathon team.
+
